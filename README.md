@@ -7,7 +7,7 @@ Native Android ports of Switch games that run **your own copy** of the game: the
 | Persona 5 Royal | [p5r-android](https://github.com/Brandon04Gonzalez/p5r-android) | [Releases](https://github.com/Brandon04Gonzalez/p5r-android/releases/latest) |
 | Persona 4 Golden | [p4g-android](https://github.com/Brandon04Gonzalez/p4g-android) | [Releases](https://github.com/Brandon04Gonzalez/p4g-android/releases/latest) |
 | Persona 4 Arena Ultimax | [p4au-android](https://github.com/Brandon04Gonzalez/p4au-android) (online play coming soon) | [Releases](https://github.com/Brandon04Gonzalez/p4au-android/releases/latest) |
-| NieR:Automata (preview) | [nier-android](https://github.com/Brandon04Gonzalez/nier-android) | [Releases](https://github.com/Brandon04Gonzalez/nier-android/releases) |
+| NieR:Automata | [nier-android](https://github.com/Brandon04Gonzalez/nier-android) | [Releases](https://github.com/Brandon04Gonzalez/nier-android/releases/latest) |
 
 - **Discord** (English and Spanish), news and help: https://discord.gg/rMgRneBTCe
 - **Support (optional):** [GitHub Sponsors](https://github.com/sponsors/Brandon04Gonzalez). The ports are free and made for preservation; donating is entirely voluntary and helps with the costs of making them (test devices, hardware, servers).
