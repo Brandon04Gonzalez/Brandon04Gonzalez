@@ -1,12 +1,13 @@
 ### Native Android ports for preservation
 
-Native Android ports of Switch games that run **your own copy** of the game: the APKs hold no game code or data.
+Native Android ports of Switch and 3DS games that run **your own copy** of the game: the APKs hold no game code or data.
 
 | Game | Repository | Latest |
 |---|---|---|
 | Persona 5 Royal | [p5r-android](https://github.com/Brandon04Gonzalez/p5r-android) | [Releases](https://github.com/Brandon04Gonzalez/p5r-android/releases/latest) |
 | Persona 4 Golden | [p4g-android](https://github.com/Brandon04Gonzalez/p4g-android) | [Releases](https://github.com/Brandon04Gonzalez/p4g-android/releases/latest) |
 | Persona 4 Arena Ultimax | [p4au-android](https://github.com/Brandon04Gonzalez/p4au-android) (online play coming soon) | [Releases](https://github.com/Brandon04Gonzalez/p4au-android/releases/latest) |
+| Persona Q (3DS: the game is recompiled on your phone) | [pq-android](https://github.com/Brandon04Gonzalez/pq-android) | [Releases](https://github.com/Brandon04Gonzalez/pq-android/releases/latest) |
 | NieR:Automata | [nier-android](https://github.com/Brandon04Gonzalez/nier-android) | [Releases](https://github.com/Brandon04Gonzalez/nier-android/releases/latest) |
 
 - **Discord** (English and Spanish), news and help: https://discord.gg/rMgRneBTCe
@@ -14,4 +15,4 @@ Native Android ports of Switch games that run **your own copy** of the game: the
 
 ---
 
-**En español:** ports nativos para Android de juegos de Switch que ejecutan **tu propia copia** del juego (los APK no llevan nada del juego). Únete al [Discord](https://discord.gg/rMgRneBTCe) (canales en español e inglés). Si quieres apoyar al desarrollador, puedes hacerlo de forma totalmente voluntaria en [GitHub Sponsors](https://github.com/sponsors/Brandon04Gonzalez): los ports se hacen para preservación y donar ayuda con los gastos que conlleva hacerlos.
+**En español:** ports nativos para Android de juegos de Switch y 3DS que ejecutan **tu propia copia** del juego (los APK no llevan nada del juego). Únete al [Discord](https://discord.gg/rMgRneBTCe) (canales en español e inglés). Si quieres apoyar al desarrollador, puedes hacerlo de forma totalmente voluntaria en [GitHub Sponsors](https://github.com/sponsors/Brandon04Gonzalez): los ports se hacen para preservación y donar ayuda con los gastos que conlleva hacerlos.
