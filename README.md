@@ -2,6 +2,10 @@
 
 Native Android ports of Switch and 3DS games that run **your own copy** of the game: the APKs hold no game code or data.
 
+<p align="center">
+  <a href="https://github.com/sponsors/Brandon04Gonzalez"><img alt="¿Quieres invitarme un café? (GitHub Sponsors)" src="https://img.shields.io/badge/%E2%98%95%20%C2%BFQuieres%20invitarme%20un%20caf%C3%A9%3F-ea4aaa?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white"></a>
+</p>
+
 | Game | Repository | Latest |
 |---|---|---|
 | Persona 5 Royal | [p5r-android](https://github.com/Brandon04Gonzalez/p5r-android) | [Releases](https://github.com/Brandon04Gonzalez/p5r-android/releases/latest) |
